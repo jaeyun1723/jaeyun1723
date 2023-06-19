@@ -1,8 +1,9 @@
-### Hi there 👋
-
-<!--
-**jaeyun1723/jaeyun1723** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<div aling="center">
+![jaeyun1723's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyun1723&show_icons=true&theme=tokyonight)
+</div>
+ 
+ 
+  <!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
