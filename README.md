@@ -1,5 +1,7 @@
-<div aling="center">
+<div align="center">
 ![jaeyun1723's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyun1723&show_icons=true&theme=tokyonight)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeyun1723)](https://solved.ac/jaeyun1723/)
 </div>
  
  
