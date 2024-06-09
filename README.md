@@ -2,7 +2,11 @@
 ![jaeyun1723's GitHub stats](https://github-readme-stats.vercel.app/api?username=jaeyun1723&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeyun1723)](https://solved.ac/jaeyun1723/)
 
- # 💪Skills
+# 🎓Education
+- SSAFY 10th - 삼성 청년 SW 아카데미 10기 수료 (2023.07 ~ 2024.06)
+- KB IT's Your Life 3rd - 국민은행 IT 아카데미 3기 수료 (2023.03 ~ 2023.05)
+- Inha Univ - Bachelor of Computer Engineering (2016.03 ~ 2023.08)
+ # 🧰Skills
 ### Platforms & Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
