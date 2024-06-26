@@ -3,8 +3,8 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jaeyun1723)](https://solved.ac/jaeyun1723/)
 
 # 🎓Education
-- SSAFY 10th - 삼성 청년 SW 아카데미 10기 수료 (2023.07 ~ 2024.06)
-- KB IT's Your Life 3rd - 국민은행 IT 아카데미 3기 수료 (2023.03 ~ 2023.05)
+- SSAFY 10th - 삼성 청년 SW 아카데미 10기 (2023.07 ~ 2024.06)
+- KB IT's Your Life 3rd - 국민은행 IT 아카데미 3기 (2023.03 ~ 2023.05)
 - Inha Univ - 인하대학교 컴퓨터공학과 (2016.03 ~ 2023.08)
  # 🧰Skills
 ### Platforms & Languages
