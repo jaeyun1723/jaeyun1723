@@ -38,4 +38,4 @@
 # :mailbox_with_mail: Contacts
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jaeyun1723@gmail.com)](mailto:jaeyun1723@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:jaeyun1723@naver.com)](mailto:jaeyun1723@naver.com)
-
+[![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@jaeyun1723)](https://velog.io/@jaeyun1723/posts)
